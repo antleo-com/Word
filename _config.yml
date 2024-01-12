@@ -1,0 +1,13 @@
+---
+name: Salty Light
+title: Salty Light
+---
+markdown:kramdown
+
+# SEO Stuff
+author: Charlie
+description: Assorted Writings
+lang: en
+locale: en_GB
+url: "https://charlie.antleo.com"
+baseurl: ""
