@@ -1,13 +1,13 @@
 ---
-name: Salty Light
-title: Salty Light
+name: Word
+title: Word
 ---
 markdown:kramdown
 
 # SEO Stuff
-author: Charlie
-description: Assorted Writings
+author: Charlie Joseph
+description: Gleanings from The Word
 lang: en
 locale: en_GB
-url: "https://charlie.antleo.com"
+url: "https://antleo.com/Word"
 baseurl: ""

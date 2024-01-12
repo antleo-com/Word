@@ -1,5 +1,7 @@
-#### Word
+#### Word: Index
 
-Gleanings from The Word
+###### Resources
 
-Test
+Pages/Koine_Resources
+
+###### Articles
