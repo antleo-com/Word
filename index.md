@@ -6,4 +6,4 @@
 
 ###### Articles
 
-[Theleema, or the will of God](/Theleema.md)
+[Theleema, or the will of God](/Pages/Theleema.md)
