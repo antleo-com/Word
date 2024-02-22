@@ -1,19 +1,11 @@
 ---
-title: Koine Resources
-layout: post
+title: Koine Online Resources
+layout: default
 ---
 
-## Koine Resources
+## Online Koine Resources
 
-Here are some helpful resources if you're on the road to learning Koine greek: 
-
-### Books
-
-* Basics of Biblical Greek by William D Mounce: Highly recommended as it makes what is quite tough, somewhat easy
-* Basics of Biblical Greek: If you are self-learning, this is an essential companion to the text book, without which it will be difficult to practice and retain the learnings
-* A Manual greek lexicon of the New Testament by G. Abbott-Smith: Though there are many online lexicons as listed below, if you prefer a physical lexicon, this is a good one
-* Greek Verbs in the New Testament and Their Principal Parts by Laurence Vance: Once I was done going through the basics, I found principle parts of the verbs to be quite complex. This helpful book lists them all. I haven't bought this one yet but its on my wish list
-* Greek grammar beyond the basics by Daniel B Wallace: Once done with Mounce, this is the next recommended step into intermediate greek, as recommended by Mounce himself
+Here are some helpful online koine resources if you're on the road to learning Koine greek: 
 
 ### Online Greek Bibles and Lexicons
 
@@ -48,12 +40,6 @@ Here are some helpful resources if you're on the road to learning Koine greek:
 * [Mastergreek parsing practice tool](https://www.mastergreek.com/){:target="_blank"}: It's free and very useful for practicing and retaining all those forms and paradigms in memory, but has ads.
 * [Ancient greek tutorials](http://atticgreek.org/){:target="_blank"}: Free and helpful drills for all kinds of vocab exercises. You can also download and use the older version of these drills on your computer without internet acces with these files [here](https://ucbclassics.dreamhosters.com/ancgreek/AGTdownload.zip){:target="_blank"}
 
-### Software
-
-* [Bible Strong App](){:target="_blank"} : For Android tablets, I find the free Bible Strong app to be an excellent tool to read and reference the Koine. It is not too heavy on features and has a very usable interface to read the greek directly or with the help of an interlinear. Side Note: I use a Boox tablet with an e-ink screen which is very good for the eyes. These are available from [the Boox website](https://www.boox.com/){:target="_blank"}
-* [Step Bible](https://www.stepbible.org/downloads.jsp){:target="_blank"} : This is a good, free bible app with ancient languages included that is available online and for desktop, mobile. It has many, many versions and languages of the Bible with helpful tools and aids for original language studies. I use this on my desktop.
-* [Bible-Discovery](http://www.bible-discovery.com/bible-download.php){:target="_blank"} : Another free bible study software with original languages. I haven't used this one much but will do so and update here. However, I see that many of the useful features are available free only for a 10-day trial period
-
 ### Even More Online Greek Bibles
 
 * [Abarim Interlinear](https://www.abarim-publications.com/Interlinear-New-Testament/index.html){:target="_blank"} : Some of their concordance entries are quite detailed and helpful
@@ -61,11 +47,6 @@ Here are some helpful resources if you're on the road to learning Koine greek:
 * [NET greek bible](https://netbible.org/bible){:target="_blank"} : Another online greek bible you may want to check out
 * [Bible.org greek bible](https://thebible.org/gt/index){:target="_blank"} : Another online greek bible you may want to check out
 
-### Motivation
-
-* [Why Learn Greek with All The Available Translations?](http://ericsowell.com/blog/2015/10/18/why-learn-greek-with-all-the-available-translations){:target="_blank"}
-* [Should You Learn Greek or Hebrew?](http://ericsowell.com/blog/2008/4/19/should-you-learn-greek-or-hebrew){:target="_blank"}
-
 ---------------------
 
-Published: 21 Mar 2023 | Updated: 23 Mar 2023
+Updated: Feb 2024 | If you find any broken links, please let me know through the Contact page
