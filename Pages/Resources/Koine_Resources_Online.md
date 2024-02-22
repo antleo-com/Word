@@ -50,3 +50,5 @@ Here are some helpful online koine resources if you're on the road to learning K
 ---------------------
 
 Updated: Feb 2024 | If you find any broken links, please let me know through the Contact page
+
+[Test](/Pages/Resources/Koine_Resources_Books)
