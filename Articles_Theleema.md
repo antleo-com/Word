@@ -77,6 +77,4 @@ It might be assumed that doing the will of God will be a rewarding experience. B
 > 
 > For whoever does the will of God, he is my brother and sister and mother.”
 
-
-
-[Test](/Koine_Resources_Books)
+[Test](./Koine_Resources_Books)
