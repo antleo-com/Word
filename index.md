@@ -1,9 +1,7 @@
-#### Word: Index
+# Table of Contents
 
-###### Resources
+# 
 
-[Helpful resources to study the New Testament greek](Pages/Koine_Resources)
-
-###### Articles
+## Articles
 
 [Theleema, or the will of God](/Pages/Theleema.md)
