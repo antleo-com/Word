@@ -2,4 +2,4 @@
 
 ## Articles
 
-[Theleema, or the will of God](/Articles_Theleema.md)
+[Theleema, or the will of God](/p_Theleema.md)
