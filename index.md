@@ -1,5 +1,5 @@
-# Table of Contents
+# Welcome
 
-## Articles
+This site contains articles and resources, gleaned from and for the Word of God 
 
-[Theleema, or the will of God](/p_Theleema.md)
+Use the menu above to browse or [start here](/index2_Articles)
