@@ -7,17 +7,23 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    
+
+    {% include css.html %}
+
   </head>
+
+
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
     
-
-      {{ content }}
+{% include header.html %}
+   
+  {{ content }}
 
 
 {% include copyright.html %}
 {% include statcounter.html %}
+{% include javascript.html %}
 
     
     </div>
