@@ -51,4 +51,4 @@ But, it is also instructive to ask ourselves, if the Lord were to return today, 
 These are sobering questions, and ones we would do well to consider. 
 
 
-*Updated: September 3, 2024*
+*Published August 2024; Updated: September 9, 2024*
