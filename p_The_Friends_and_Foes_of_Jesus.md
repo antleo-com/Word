@@ -23,7 +23,7 @@ Probably, John understood this best much later, when he wrote in his first epist
 
 Most English translations of the scriptures are handicapped in that they use the word friend incorrectly in four places, where the original greek uses another word (grk:ἑταῖρος:hetairos). This word, as Vine's Dicitionary of NT words puts it, is a term of kindly address, rather than a term of endearment. It could more accurately be translated as comrade, fellow, or in modern terms man or bro, as we might say to a passing acquaintance "Hey man, how are you?"
 
-It is quite interesting to note that this word in its noun form occurs in the scriptures, only thrice, and in all three instances the Lord can be seen using this form of address, just before rebuking someone's attitude. Look at the first instance:
+It is quite interesting to note that this word in its vocative noun form occurs in the scriptures, only thrice, and in all three instances the Lord can be seen using this form of address, just before rebuking someone's attitude. Look at the first instance:
 
 >   But he replied to one of them, Friend (Ἑταῖρε), I am doing you no wrong. Did you not agree with me for a denarius? - Matt 20:13
 
@@ -40,15 +40,15 @@ Finally, the last time the Lord uses the word (grk:ἑταῖρος:hetairos) is
 
 > And he came up to Jesus at once and said, "Greetings, Rabbi!" And he kissed him. Jesus said to him, "Friend (Ἑταῖρε), do what you came to do." Then they came up and laid hands on Jesus and seized him. - Matt 26:49,50
 
-Judas was one of Jesus' chosen disciples, but had slowly come to realize that the Lord did not intend to set up an earthly kingdom immediately. He was close to Jesus as long as he had hopes of earthly privileges and power. But when those hopes were dashed, he allowed the devil to influence him, betrayed the Lord, and eventually met a tragic end with no hope of salvation.
+Judas was one of Jesus' chosen disciples, but turned away from him to betray Him. The reason is not clearly revealed in the scriptures but one plausible reason is that like most of the Jews of the time he had hoped that Jesus as the Messiah would restore the kingdom to Israel. However, the Lord had been making it clear to the disciples that setting up an earthly Kingdom was not His immediate plan and that He was going to Jerusalem to die on the cross. Judas was close to Jesus as long as he had hopes of earthly privileges and power. But when those hopes were dashed, he allowed the devil to influence him, betrayed the Lord, and eventually met a tragic end with no hope of salvation.
 
 ## So, are we friends of foes?
 
 The classic hymn 'What a Friend we Have in Jesus' is an evergreen favorite in many church gatherings. But friendship with the Son of God has of necessity to be on His terms. Unless we are learning to lay down our lives for others, perhaps we need to ask ourselves if Jesus is really our friend. The above scripture passages are rather instructive. There is much to learn, apply, and practice if we aspire to a genuine friendship with the Lord.
 
-But, it is also isntructive to ask ourselves, if the Lord were to return today, what word would he use to address us? Would He call us His friends (G5384: φίλος: filos) or are we merely His fellow-humans and in great peril of rebuke? Are we like the grumbling laborer in the vineyard who was envious of what the Lord was blessing the other laborers with? Are we still blissfully clothed in our own self-righteousness like the foolish wedding guest and well on our way to be rudely awakened on a coming day? Or even worse, are we, like hypocritical Judas, keeping company with the Lord only in the hope of earthly blessings?
+But, it is also instructive to ask ourselves, if the Lord were to return today, what word would he use to address us? Would He call us His friends (G5384: φίλος: filos) or are we merely His fellow-humans and in great peril of rebuke? Are we like the grumbling laborer in the vineyard who was envious of what the Lord was blessing the other laborers with? Are we still blissfully clothed in our own self-righteousness like the foolish wedding guest and well on our way to be rudely awakened on a coming day? Or even worse, are we, tragically like Judas, keeping company with the Lord only in the hope of earthly blessings?
 
 These are sobering questions, and ones we would do well to consider. 
 
 
-
+*Updated: September 3, 2024*
