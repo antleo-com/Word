@@ -40,7 +40,7 @@ Finally, the last time the Lord uses the word (grk:ἑταῖρος:hetairos) is
 
 > And he came up to Jesus at once and said, "Greetings, Rabbi!" And he kissed him. Jesus said to him, "Friend (Ἑταῖρε), do what you came to do." Then they came up and laid hands on Jesus and seized him. - Matt 26:49,50
 
-Judas was one of Jesus' chosen disciples, but turned away from him to betray Him. The reason is not clearly revealed in the scriptures but one plausible reason is that like most of the Jews of the time he had hoped that Jesus as the Messiah would restore the kingdom to Israel. However, the Lord had been making it clear to the disciples that setting up an earthly Kingdom was not His immediate plan and that He was going to Jerusalem to die on the cross. Judas was close to Jesus as long as he had hopes of earthly privileges and power. But when those hopes were dashed, he allowed the devil to influence him, betrayed the Lord, and eventually met a tragic end with no hope of salvation.
+Judas was one of Jesus' chosen disciples, but turned away from him to betray Him. The reason for the betrayal is not clearly revealed in the scriptures but one plausible reason is that like most of the Jews of the time he had hoped that Jesus as the Messiah would restore the kingdom to Israel. However, the Lord had been making it clear to the disciples that setting up an earthly Kingdom was not His immediate plan and that He was going to Jerusalem to die on the cross. Undoubtedly, Judas was close to Jesus as long as he had hopes of earthly privileges and power. But when those hopes were dashed, he allowed the devil to influence him, betrayed the Lord, and eventually met a tragic end with no hope of salvation.
 
 ## So, are we friends of foes?
 
