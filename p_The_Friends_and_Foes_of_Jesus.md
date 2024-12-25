@@ -42,7 +42,7 @@ Finally, the last time the Lord uses the word (grk:ἑταῖρος:hetairos) is
 
 Judas was one of Jesus' chosen disciples, but turned away from him to betray Him. The reason for the betrayal is not clearly revealed in the scriptures but one plausible reason is that like most of the Jews of the time he had hoped that Jesus as the Messiah would restore the kingdom to Israel. However, the Lord had been making it clear to the disciples that setting up an earthly Kingdom was not His immediate plan and that He was going to Jerusalem to die on the cross. Undoubtedly, Judas was close to Jesus as long as he had hopes of earthly privileges and power. But when those hopes were dashed, he allowed the devil to influence him, betrayed the Lord, and eventually met a tragic end with no hope of salvation.
 
-## So, are we friends of foes?
+## So, are we friends or foes?
 
 The classic hymn 'What a Friend we Have in Jesus' is an evergreen favorite in many church gatherings. But friendship with the Son of God has of necessity to be on His terms. Unless we are learning to lay down our lives for others, perhaps we need to ask ourselves if Jesus is really our friend. The above scripture passages are rather instructive. There is much to learn, apply, and practice if we aspire to a genuine friendship with the Lord.
 
@@ -51,4 +51,4 @@ But, it is also instructive to ask ourselves, if the Lord were to return today, 
 These are sobering questions, and ones we would do well to consider. 
 
 
-*Published August 2024; Updated: September 9, 2024*
+*Published August 2024; Updated: December 25, 2024*
