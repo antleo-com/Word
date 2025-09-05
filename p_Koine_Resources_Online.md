@@ -14,6 +14,7 @@ Here are some helpful online koine resources if you're on the road to learning K
 * [Greekdoc Parsings](https://greekdoc.github.io/){:target="_blank"} : This is one of the best sites I've found for finding out all the principle parts for verb parsings. Select a NT and then click on any verb, it gives you loads of useful information on the related nouns, adjectives, and verbals forms. And invaluable resource.
 * [Customizable online Reader](https://biblewebapp.com/reader/){:target="_blank"} : This site enables you to create a customized greek NT reader version. Unfortunately, it doesn't have an option to print out what you have created.
 * [Perseus's Morpheus (Greek Word Study Tool)](http://www.perseus.tufts.edu/hopper/morph?lang=greek){:target="_blank"}: Type in a greek word using an english keyboard and get its parsings, forms, lexicon entries etc. Very useful.
+* [Dr. Shirley Robinson's Online Greek Textbook](http://greek.theopedia.com){:target="_blank"}
 
 ### Online Support
 
