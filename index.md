@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Welcome
 
 This site contains articles and resources, gleaned from and for the Word of God 
