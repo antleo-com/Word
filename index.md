@@ -2,8 +2,10 @@
 layout: home
 ---
 
-# Welcome
+# Navigate to:
 
-This site contains articles and resources, gleaned from and for the Word of God 
-
-Use the menu above to browse or [start here](./index2_Articles.md)
+|   |  Description |
+|---|---|
+|  [Gleanings](./index2-Articles.md) |  Biblical writings  |
+|  [Grammar](./index2-Grammar) |  Koine Greek Grammar Resources |
+|  [Resource Links](./index2-Resources) |  Links to/Info about Koine Greek Resources |
