@@ -8,5 +8,4 @@ title: All Articles
 
 [A Command to Flee](./p-A-Command-to-Flee.md)
 
-[The Friends and Foes of Jesus](./p-The-Friends-and-Foes-of-
-Jesus.md)
+[The Friends and Foes of Jesus](./p-The-Friends-and-Foes-of-Jesus.md)
