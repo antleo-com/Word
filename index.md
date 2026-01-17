@@ -4,7 +4,7 @@ layout: home
 
 # Navigate to:
 
-|   |  Description |
+|   |   |
 |---|---|
 |  [Gleanings](./index2-Articles.md) |  Biblical writings  |
 |  [Grammar](./index2-Grammar) |  Koine Greek Grammar Resources |
