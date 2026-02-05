@@ -2,8 +2,6 @@
 
 <html>
 
-<h4>Search this site:</h4>
-
 <link href="./pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="./pagefind/pagefind-ui.js"></script>
 
@@ -14,4 +12,6 @@ window.addEventListener('DOMContentLoaded', (event) => {
     });
 </script>
 
+<br>
+<br>
 </html>
