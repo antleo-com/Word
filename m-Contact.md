@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## Contact
 
 I'd love to hear from you! Fill in the form below and click Send.

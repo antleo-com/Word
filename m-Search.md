@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## Search this site
 
 <html>
