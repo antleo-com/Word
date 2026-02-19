@@ -15,14 +15,13 @@ window.addEventListener('DOMContentLoaded', (event) => {
         new PagefindUI({ element: "#search", showSubResults: true });
     });
 </script>
+</html>
 
-<br>
 Use the search box above to search for a word, a combination of words, or hashtags.
-<br>
+
 Current hastags: 
 
 #word-study
 
 #koine-greek-resources
-<br>
-</html>
+
