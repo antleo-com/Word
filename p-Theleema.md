@@ -76,3 +76,5 @@ It might be assumed that doing the will of God will be a rewarding experience. B
 > ὃς γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ θεοῦ, οὗτος ἀδελφός μου καὶ ἀδελφὴ καὶ μήτηρ ἐστίν.
 > 
 > For whoever does the will of God, he is my brother and sister and mother.”
+
+#word-study

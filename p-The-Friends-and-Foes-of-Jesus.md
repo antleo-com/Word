@@ -55,4 +55,4 @@ These are sobering questions, and ones we would do well to consider.
 
 
 *Published August 2024; Updated: December 25, 2024*
-#bible-study
+#word-study

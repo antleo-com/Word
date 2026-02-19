@@ -13,3 +13,4 @@ Here are some helpful motivational articles if you're on the road to learning Ko
 ---------------------
 
 Updated: Feb 2024 | If you find any broken links, please let me know through the contact page
+#koine-greek-resources

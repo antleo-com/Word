@@ -15,3 +15,4 @@ Here are some helpful software tools if you're on the road to learning Koine gre
 ---------------------
 
 Updated: Feb 2024 | Please let me know of any broken links through the Contact page
+#koine-greek-resources

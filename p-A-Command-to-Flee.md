@@ -16,3 +16,5 @@ Second, the imperative mood tells us that these flee verses are not suggestions 
 Lastly, these flee commands do not prescribe where one is to run to. The idea perhaps is that when one is escaping danger one may not really have a destination in mind, but just the intense, instinctive desire to get away from the scene of danger.
 
 May the Spirit help us not to linger when we need to flee!
+
+#word-study
