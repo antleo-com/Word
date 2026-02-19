@@ -20,7 +20,9 @@ window.addEventListener('DOMContentLoaded', (event) => {
 Use the search box above to search for a word, a combination of words, or hashtags.
 <br>
 Current hastags: 
+
 #word-study
+
 #koine-greek-resources
 <br>
 </html>
