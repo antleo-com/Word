@@ -18,3 +18,5 @@ window.addEventListener('DOMContentLoaded', (event) => {
 </html>
 
 Use the fuzzy search box above to search for a word or a combination of words.
+
+Credit: This full text search over all content in this website is powered by [pagefind](https://pagefind.app/), a completely static search library that runs entirely in your browser, with no connection to a search engine.
