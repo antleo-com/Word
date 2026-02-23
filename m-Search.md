@@ -25,3 +25,6 @@ Current hastags:
 
 #koine-greek-resources
 
+Or use the lunr search option for different results
+
+{% include search-lunr.html %}
