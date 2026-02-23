@@ -17,14 +17,4 @@ window.addEventListener('DOMContentLoaded', (event) => {
 </script>
 </html>
 
-Use the search box above to search for a word, a combination of words, or hashtags.
-
-Current hastags: 
-
-#word-study
-
-#koine-greek-resources
-
-Or use the lunr search option for different results
-
-{% include search-lunr.html %}
+Use the fuzzy search box above to search for a word or a combination of words.
