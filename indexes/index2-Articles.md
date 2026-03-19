@@ -4,8 +4,10 @@ title: All Articles
 
 # All Articles
 
-[Theleema, or the Will of God](../pages/p-Theleema.md)
+[How Peter Made Paul's Life Difficult](../pages/gleanings/How-Peter-Made-Pauls-Life-Difficult.md)
 
-[A Command to Flee](../pages/p-A-Command-to-Flee.md)
+[Theleema, or the Will of God](../pages/gleanings/p-Theleema.md)
 
-[The Friends and Foes of Jesus](../pages/p-The-Friends-and-Foes-of-Jesus.md)
+[A Command to Flee](../pages/gleanings/p-A-Command-to-Flee.md)
+
+[The Friends and Foes of Jesus](../pages/gleanings/p-The-Friends-and-Foes-of-Jesus.md)

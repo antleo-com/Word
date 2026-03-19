@@ -30,7 +30,7 @@ But then the plot began to go wrong. Peter decided that it was time to set thing
 > And they prayed and said, “You, Lord, who know the hearts of all, show which one of these two you have chosen to take the place in this ministry and apostleship from which Judas turned aside to go to his own place.”
 >
 > And they cast lots for them, and the lot fell on Matthias
->
+
 ### A choice that was not so clearly wrong
 
 So was Matthais' election really a blunder? Did the other apostles not follow sound principles of electing a replacement for Judas? Did not Proverbs 16:33 also say that every decision of a lot was from the hand of the Lord? It would appear that the disciples led by Peter were making a wise, and scriptural decison that perhaps in their minds would hasten the coming of the kingdom to Israel. However, Luke, the author of the book of Acts records the sorry outcome.
