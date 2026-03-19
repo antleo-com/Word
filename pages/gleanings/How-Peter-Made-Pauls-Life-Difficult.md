@@ -36,7 +36,7 @@ But then the plot began to go wrong. Peter decided that it was time to set thing
 So was Matthais' election really a blunder? Did the other apostles not follow sound principles of electing a replacement for Judas? Did not Proverbs 16:33 also say that every decision of a lot was from the hand of the Lord? It would appear that the disciples led by Peter were making a wise, and scriptural decison that perhaps in their minds would hasten the coming of the kingdom to Israel. However, Luke, the author of the book of Acts records the sorry outcome.
 
 > and he (Matthias) was numbered with **the eleven apostles**.
->
+
 Note that Luke did not say that Matthias was numbered among the twelve apostles. All that happened was that the other disciples accepted the decision of the lot, and counted Matthais as an apostle, but the inspired scriptures still held that there were only eleven apostles. A few chapters later, Acts 9:6, 15 records that man's choice was not God's choice. The Lord met Paul on the road to Damascus and commissioned him with his apostleship. 
 
 ### The consequences of bad hiring
