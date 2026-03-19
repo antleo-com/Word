@@ -8,7 +8,7 @@
 The last chapter in the gospel of John records the account of the Lord Jesus lovingly restoring Peter. But then the book of Acts begins with a record of another one of Peter's blunders. It is recorded for us in Acts 1: 15-26.
 
 > In those days Peter stood up among the brothers (the company of persons was in all about 120)
->
+
 Peter was an impulsive man, a natural leader, who would not only speak what was on his mind but rush in where others would fear to tread. Earlier, he had cut off Malchus' ear, and he had dared to even walk on turbulent waters. His inclination was to speak or act first and think only later. And here was that same spirit in action.
 
 > and said, “Brothers, the Scripture had to be fulfilled, which the Holy Spirit spoke beforehand by the mouth of David concerning Judas, who became a guide to those who arrested Jesus. For he was numbered among us and was allotted his share in this ministry.”
